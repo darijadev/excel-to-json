@@ -1,13 +1,13 @@
 {
   "name": "excel-to-json",
   "version": "1.0.0",
-  "description": "",
+  "description": "convert excel file to json",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "darija.dev",
   "license": "ISC",
   "dependencies": {
     "xlsx": "^0.18.5"
